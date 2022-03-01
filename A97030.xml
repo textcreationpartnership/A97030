@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Wallers speech in Parliament, at a conference of both Houses in the painted chamber. 6. Iuly 1641</title>
+            <title>Speech in Parliament, at a conference of both Houses in the painted chamber. 6. July 1641.</title>
+            <author>Waller, Edmund, 1606-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97030</idno>
+            <idno type="STC">Wing W522</idno>
+            <idno type="STC">Thomason E198_37</idno>
+            <idno type="STC">ESTC R9691</idno>
+            <idno type="EEBO-CITATION">99873599</idno>
+            <idno type="PROQUEST">99873599</idno>
+            <idno type="VID">157499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E198[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Wallers speech in Parliament, at a conference of both Houses in the painted chamber. 6. Iuly 1641</title>
+                  <title>Speech in Parliament, at a conference of both Houses in the painted chamber. 6. July 1641.</title>
+                  <author>Waller, Edmund, 1606-1687.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. N[orton] for Abel Roper at the black spread Eagle over against Saint Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Pforzheimer catalogue.</note>
+                  <note>Concerning the impeachment of Sir Francis Crawley.</note>
+                  <note>A variant has "Fagle" instead of "Eagle" in imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crawley, Francis, --  Sir, 1573 or 4-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157499:1"/>
+            <pb facs="tcp:157499:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r.</hi> WALLERS SPEECH in Parliament, At a conference of both Houſes in the painted Chamber. 6. <hi>Iuly</hi> 1641.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>J. N.</hi> for <hi>Abel Roper</hi> at the black ſpread Eagle over againſt Saint <hi>Dunſtans</hi> Church in Fleet-ſtreet. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157499:2"/>
+            <pb facs="tcp:157499:2"/>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>I Am commanded by the Houſe of Commons, to preſent you with theſe Articles againſt M. Iuſtice <hi>Crawley,</hi> which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Lordſhips ſhall have beene <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d to heare read I ſhall take leave (according to cuſtome) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſay ſome<g ref="char:EOLhyphen"/>thing of what I have coll<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed from the ſenſe of that Houſe concerning the crimes therein conteined.</p>
+            <stage>Here the charge was read conteining his extrajudi iall opinions ſubſcribed, and judge<g ref="char:EOLhyphen"/>ment given for Ship-money, and afterward a declaration in his charge at an Aſsize, that Ship-mony was ſo inhaerent a right in the Crown, that it would not be in the power of a Parlia<g ref="char:EOLhyphen"/>ment to take it away.</stage>
+            <pb facs="tcp:157499:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:157499:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:157499:4"/>
+            <p>MY LORDS, Not only my wants but my affections render me leſſe fit for this imployment: for though it has not beene my hap<g ref="char:EOLhyphen"/>pineſſe to have the Law a part of my breeding, there is no man ho<g ref="char:EOLhyphen"/>nours that profeſſion more, or has a greater reverence towards the grave Iudges the Ora<g ref="char:EOLhyphen"/>cles thereof. Out of Parlament all our Courts of Iuſtice are governed or directed by them, and when a Parlament is call'd, if your Lordſhips were not aſſiſted by them, and the Houſe of Commons by other Gentle<g ref="char:EOLhyphen"/>men of that Robe, experience tells us it might runne a hazard of being ſtyled <hi>Parlamentum indoctorum.</hi> But as all profeſſions are obnoxi<g ref="char:EOLhyphen"/>ous to the malice of the profeſſours, and by them moſt eaſily betrayed, ſo (my Lords) theſe Articles have told you how theſe bro<g ref="char:EOLhyphen"/>thers of the Coyfeare become <hi>fratres in malo;</hi> how theſe ſonnes of the Law have torne out
+<pb n="3" facs="tcp:157499:4"/> the bowells of their mother: But this Iudge (whoſe charge you laſt heard) in one expreſ<g ref="char:EOLhyphen"/>ſion of his excells no leſſe his Fellowes, then they have done the worſt of their predeceſ<g ref="char:EOLhyphen"/>ſours, in this conſpiracie againſt the Com<g ref="char:EOLhyphen"/>mon-wealth. Of the Iudgement for Ship<g ref="char:EOLhyphen"/>money, and thoſe extrajudiciall opinions preceding the ſame (wherein they are joynt<g ref="char:EOLhyphen"/>ly concern'd) you have already heard; how unjuſt and pernitious a proceeding that was in ſo publique a Cauſe, has beene ſufficiently expreſs'd to your Lordſhips: But this man, adding deſpaire to our miſery, tells us from the Bench, that Ship-money was a Right ſo inhaerent in the Crowne, that it would not be in the power of an Act of Parlament to take it away. Herein (my Lords) he did not onely give as deepe a wound to the Com<g ref="char:EOLhyphen"/>mon-wealth as any of the reſt, but dipt his dart in ſuch a poyſon, that ſo farre as in him lay it might never receive a cure. As by thoſe abortive opinions ſubſcribing to the ſubver<g ref="char:EOLhyphen"/>ſion of our propriety, before hee heard what could be ſaid for it, he prevented his owne, ſo by this declaration of his he endevours to
+<pb n="4" facs="tcp:157499:5"/> prevent the Iudgement of your Lordſhips too, and to confine the power of a Parlia<g ref="char:EOLhyphen"/>ment, the onely place where this miſchiefe might be redreſt: Sure he is more wiſe and learned, then to beleeve himſelfe in this opi<g ref="char:EOLhyphen"/>nion, or not to know how ridiculous it would appeare to a Parliament, and how dangerous to himſelfe, and therefore no doubt but by ſaying no Parliament could aboliſh this Iudgement, his meaning was that this Iudgement had aboliſh't Parliaments.</p>
+            <p>This impoſition of Ship-money ſpringing from a pretended neceſſity, was it not enough that it was now grown annuall, but he muſt intayle it upon the State for ever, at once making neceſſity in haerent to the Crowne, and ſlavery to the Subject? N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceſſity, which diſſolving all Law is ſo much more prejudi<g ref="char:EOLhyphen"/>ciall to his Majeſtie then to any of us, by how much the Law has inveſted his Royall State with a greater power, and ampler fortune, for ſo undoubted a truth it has ever beene, that Kings as well as Subjects are involv'd in the confuſion which neceſſity produces, that the Heathen thought their gods alſo ob<g ref="char:EOLhyphen"/>liged
+<pb n="5" facs="tcp:157499:5"/> by the ſame, <hi>Pareamus neceſsitati quam nec homines nec dii ſuperant:</hi> This Iudge then having in his charge at the Aſſize declar'd the diſſolution of the Law by this ſuppos<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ne<g ref="char:EOLhyphen"/>ceſſity, with what conſcience could hee at the ſame Aſſize proceed to condemne and puniſh men, unleſſe perhaps hee meant the Law was ſtill in force for our deſtruction, and not for our preſervation, that it ſhould have power to kill, but none to protect us; a thing no leſſe horrid then if the Sunne ſhould burne without lighting us, or the earth ſerve only to bury and not to feed and nouriſh us. But (my Lords) to demonſtrate that this was a ſuppoſititious impos'd ne<g ref="char:EOLhyphen"/>ceſſity, and ſuch as they could remove when they pleas'd, at the laſt Convention in Par<g ref="char:EOLhyphen"/>liament a price was ſet upon it, <hi>for twelve Sub<g ref="char:EOLhyphen"/>ſidies you ſhall reverſe this Sentence:</hi> It may be ſaid that ſo much money would have remo<g ref="char:EOLhyphen"/>ved the preſent neceſſity, but here was a Rate ſet upon future neceſſity, <hi>For twelve Subſidies you ſhall never ſuffer neceſsity againe, you ſhall for ever aboliſh that judgement;</hi> Here this myſterie is revealed, this viſour of neceſſity is pull<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d
+<pb n="6" facs="tcp:157499:6"/> off, and now it appeares that this Parlament of Iudges had very frankly and bountifully preſented his Majeſtie with twelve Subſidies to be leavied on your Lordſhips, and the Commons: Certainly there is no priviledge which more properly belongs to a Parla<g ref="char:EOLhyphen"/>ment, then to open the purſe of the Subject, and yet theſe Iudges, who are neither capa<g ref="char:EOLhyphen"/>ble of ſitting among us in the houſe of Com<g ref="char:EOLhyphen"/>mons, nor with your Lordſhips, otherwiſe then as your aſſiſtants, have not only aſſum'd to themſelves this priviledge of Parlament, but preſum'd at once to make a preſent to the Crowne of all that either your Lordſhips or the Commons of <hi>England</hi> doe, or ſhall here<g ref="char:EOLhyphen"/>after poſſeſſe.</p>
+            <p>And becauſe this man has had the bold<g ref="char:EOLhyphen"/>neſſe to put the power of Parlament in bal<g ref="char:EOLhyphen"/>lance with the opinion of the Iudges, I ſhall intreat your Lordſhips to obſerve by way of compariſon the ſolemne and ſafe proceeding of the one, with the precipitate diſpatch of the other: In Parlament (as your Lordſhips know well) no new Law can paſſe, or old be abrogated, till it has been thrice read with
+<pb n="7" facs="tcp:157499:6"/> your Lordſhips, thrice in the Commons Houſe, and then it receives the Royall Aſſent, ſo that 'tis like gold 7 times purified; where<g ref="char:EOLhyphen"/>as theſe Iudges by this one reſolution of theirs would perſwade his Majeſty, that by naming <hi>neceſsity</hi> he might at once diſſolve (at leaſt ſu<g ref="char:EOLhyphen"/>ſpend) the great Charter 32 times confirm'd by his Royall Progenitours, the petition of Right, and all other Lawes provided for the maintenance of the Right and propriety of the Subject; a ſtrange force (my Lords) in the ſound of this word <hi>neceſsity,</hi> that like a Charme it ſhould ſilence the Lawes, while we are diſpoyl'd of all we have, for that but a part of our goods was taken is owing to the grace and goodneſſe of the King, for ſo much as concernes theſe Iudges, we have no more left then they perhaps may deſerve to have, when your Lordſhips ſhall have paſſed Iudgement upon them: This for the neglect of their Oaths, and betraying that publique truſt, which for the conſervation of our Lawes was repoſed in them.</p>
+            <p>Now for the cruelty &amp; unmercifulneſſe of this judgement, you may pleaſe to remember that in the old Law they were forbid to ſeeth
+<pb n="8" facs="tcp:157499:7"/> a Kid in his mothers milk, of which the recei<g ref="char:EOLhyphen"/>ved interpretation is, that we ſhould not uſe that to the deſtruction of any creature which was intended for its preſervation; Now (my Lords) God and Nature has given us the Sea as our beſt Guard againſt our Enemies, and our ſhips as our greateſt glory above other Nations, and how barbarouſly would theſe men have let in the ſea upon us, at once to waſh away our Liberties, &amp; to overwhelm, if not our Land, all the propriety wee have therein, making the ſupply of our Navy, apre<g ref="char:EOLhyphen"/>tence for the ruine of our Nation; for obſerve I beſeech you the fruit and conſequence of this judgement, how this money has pro<g ref="char:EOLhyphen"/>ſper'd, how contrary an effect it has had to the end for which they pretended to take it: On every County a ship is annually impos'd, and who would not expect, but our ſeas by this time ſhould be covered with the num<g ref="char:EOLhyphen"/>ber of our ships? Alas (my Lords) the daily Complaints of the decay of our Navy tell us how ill ship-money has maintain'd the So<g ref="char:EOLhyphen"/>veraignty of the ſea; and by the many petiti<g ref="char:EOLhyphen"/>ons which we receive fro<g ref="char:cmbAbbrStroke">̄</g> the wives of thoſe miſerable Captives at <hi>Algier</hi> (being between
+<pb n="9" facs="tcp:157499:7"/> 4 and 5 thouſand of our Country-men) it does too evidently appeare that to make us ſlaves at home, is not the way to keepe us from being made ſlaves abroad; ſo farre has this judgement bin from relie<g ref="char:EOLhyphen"/>ving the preſent or preventing the future neceſſity, that as it changed our reall propriety into the ſha<g ref="char:EOLhyphen"/>dow of a propriety, ſo of a feigned it has made a Reall neceſſity.</p>
+            <p>A little before the approach of the Gaules to Rome, while the Romans had yet no apprehenſion of that danger, there was heard a voyce in the Aire, lowder then ordinary, <hi>The Gaules are come,</hi> which voyce after they had ſack'd the Citie, and beſieged the Capitoll, was held ſo ominous, that <hi>Livie</hi> relates it as a Prodigy; This Anticipation of neceſſity ſeems to have been no leſſe ominous to us; Theſe Iudges like ill boading birds have call'd neceſſity upon the State in a time when I dare ſay they thought themſelves in greateſt ſecurity; but if it ſeeme ſu<g ref="char:EOLhyphen"/>perſtitious to take this as an Omen, ſure I am wee may looke on it as a cauſe of the unfained neceſsity we now ſuffer, for what regret and diſcontent had this judgement bred among us? And as when the noyſe and tumult in a private houſe growes ſo loud as to be heard into the ſtreets, it calls in the next dwellers either kindly to appeaſe, or to make their
+<pb n="10" facs="tcp:157499:8"/> owne uſe of the domeſtick ſtrife; ſo in all likeli<g ref="char:EOLhyphen"/>hood our knowne diſcontents at home have beene a concurrent cauſe to invite our Neighbours to vi<g ref="char:EOLhyphen"/>ſite us ſo much to the expence and trouble of both theſe Kingdomes.</p>
+            <p>And here, my Lords, I cannot but take notice of the moſt ſad effect of this oppreſsion, the ill influ<g ref="char:EOLhyphen"/>ence it has had upon the antient reputation and va<g ref="char:EOLhyphen"/>lour of the Engliſh Nation and no wonder, for if it be true that oppreſsion makes a wiſe man mad, it may wel ſuſpend the courage of the valiant: The ſame happened to the Romans when for renowne in Armes they moſt excell'd the reſt of the world; the ſtory is butſhort, 'twas in the time of the <hi>Decem<g ref="char:EOLhyphen"/>viri</hi> (and I think the thief-troublers of our State may make up that number,) The <hi>Decemviri,</hi> my Lords, <note place="margin">Livie lib. 5.</note> had ſubverted the Lawes, ſuſpended the Courts of Iuſtice; and (which was the greateſt grievance both to the Nobility &amp; people) had for ſome yeares omitted to aſſemble the Senate, which was their Parliament; This ſayes the Hiſtorian did not onely deject the Romans, and make them deſpaire of their Liberty, but cauſed them to be leſſe valued by their Neighbours: The Sabines take the advantage and invade them; and now the <hi>Decemviri</hi> are forc'd to call the long deſired Senate, whereof the people
+<pb n="11" facs="tcp:157499:8"/> were ſo glad, that <hi>Hoſtibus bello<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gratiam habuerunt:</hi> This Aſſembly breaks up in diſcontent, neverthe<g ref="char:EOLhyphen"/>leſſe the warre proceeds; Forces are rais'd, led by ſome of the <hi>Decemviri,</hi> and with the Sabines they meet in the Field; I know your Lordſhips expect the event; My Authors words of his Country-men are theſe, <hi>Ne quid ductu aut auſpicio Decemvirorum proſpere gereretur, vinci ſe patiebantur,</hi> They choſe ra<g ref="char:EOLhyphen"/>ther to ſuffer a preſent diminution of their Honour, then by victory to confirme the tyranny of their new Maſters: At their returne from this unfortu<g ref="char:EOLhyphen"/>nate expedition, after ſome diſtempers and expoſtu<g ref="char:EOLhyphen"/>lations of the people, an other Senate, that is a ſe<g ref="char:EOLhyphen"/>cond Parliament, is call'd, and there the <hi>Decemviri</hi> are queſtioned, deprived of their Authority, impri<g ref="char:EOLhyphen"/>ſoned, baniſh'd, and ſome loſe their lives; and ſoon after this vindication of their Liberties, the Ro<g ref="char:EOLhyphen"/>mans by their better ſucceſſe made it appeare to the world, that liberty and courage dwell alwayes in the ſame breſt, and are never to be divorced. No doubt, my Lords, but your Iuſtice ſhall have the like effect upon this diſpirited people; 'tis not the reſtitution of our ancient Lawes alone, but the re<g ref="char:EOLhyphen"/>ſtauration of our ancient courage which is expected from your Lordſhips: I need not ſay any thing to move your juſt indignation that this man ſhould
+<pb n="12" facs="tcp:157499:9"/> ſo cheaply give away that which your noble An<g ref="char:EOLhyphen"/>ceſtors with ſo much courage and induſtry had ſo long maintain'd: you have often beene told how carefull they were, though with the hazard of their lives and fortunes, to derive thoſe Rights and Liber<g ref="char:EOLhyphen"/>ties as entire to poſterity as they received them from their Fathers; what they did with labour you may doe with eaſe, what they did with danger you may doe ſecurely, the foundation of our Lawes is not ſhaken with the Engine of Warre, they are onely blaſted with the breath of theſe men, and by your breath may be reſtored.</p>
+            <p>What Iudgemenrs your Predeceſſors have given, and what puniſhments their Predeceſſors have ſuf<g ref="char:EOLhyphen"/>fer'd for offences of this nature; your Lordſhips have already beene ſo well informed, that I ſhall not trouble you with a repetition of thoſe prece<g ref="char:EOLhyphen"/>dents: Onely (my Lords) ſomething I ſhall take leave to obſerve of the perſon with whoſe charge I have preſented you, that you may the leſſe doubt of the wilfulneſſe of his offence.</p>
+            <p>His education in the Inns of Court, his conſtant practice as a Councellour, and his experience as a Iudge (confidered with the miſchiefe he has done) makes it appeare that this Progreſſe of his through the Law, has beene like that of a diligent Spie
+<pb n="13" facs="tcp:157499:9"/> through a Country into which hee meant to con<g ref="char:EOLhyphen"/>duct an enemy.</p>
+            <p>To let you ſee he did not offend for company, there is one crime ſo peculiar to himſelfe, and of ſuch malignity, that it makes him at once uncapa<g ref="char:EOLhyphen"/>ble of your Lordſhips favour, and his owne ſub<g ref="char:EOLhyphen"/>ſiſtence incompatible with the right and propriety of the Subject: for if you leave him in a capacity of interpreting the Lawes, has he not already declared his opinion, That your votes and reſolutions a<g ref="char:EOLhyphen"/>gainſt Ship-money are voyd, and that it is not in the power of a Parliament to aboliſh that Iudge<g ref="char:EOLhyphen"/>ment? To him, my Lords, that has thus plaid with the power of Parliament, wee may well ap<g ref="char:EOLhyphen"/>ply what was once ſaid to the Goat browſing on the Vine,
+<q xml:lang="lat">Rode, caper, vitem, tamen hinc cum ſtabis ad aras In Tua quod fundi cornua poſsit, erit:</q>
+            </p>
+            <p>Hee has cropt and infring'd the priviledges of a baniſh'd Parliament, but now it is returned hee may finde it has power enough to make a Sacrifice of him, to the better eſtabliſhment of our Lawes; and in truth what other ſatisfaction can hee make his injur'd Country, then to confirme by his exam<g ref="char:EOLhyphen"/>ple
+<pb n="14" facs="tcp:157499:10"/> thoſe Rights and Liberties which he had ruin'd by his opinion?</p>
+            <p>For the proofes, my Lords, they are ſo manifeſt, that they will give you little trouble in the diſquiſi<g ref="char:EOLhyphen"/>tion; his crimes are already upon Record, the De<g ref="char:EOLhyphen"/>linquent and the Witneſſe is the ſame; having from ſeverall Seats of Iudicature proclaim'd himſelfe an Enemy to our Lawes and Nation, <hi>Ex ore ſuo judi<g ref="char:EOLhyphen"/>cabitur.</hi> To which purpoſe I am commanded by the Kinghts, Citizens, and Burgeſſes of the Houſe of Commons, to deſire your Lordſhips that as ſpeedy a proceeding may be had againſt M<hi rend="sup">r.</hi> Iuſtice <hi>Crawley</hi> as the courſe of Parliaments will permit.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
